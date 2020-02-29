@@ -726,7 +726,7 @@ hr {
 }
 
 .cheif {
-  background-image: url(img/main_chef_brown.png);
+  background-image: url(../img/main_chef_brown.png);
 
   width: 470px;
   height: 460px;
@@ -1403,7 +1403,7 @@ hr {
   text-indent: -999999px;
   width: 245px;
   height: 49px;
-  background: url(img/logo_l.png) no-repeat;
+  background: url(../img/logo_l.png) no-repeat;
 }
 
 .social {
