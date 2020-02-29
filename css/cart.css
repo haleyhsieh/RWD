@@ -275,7 +275,7 @@ clear: both ;
     color: #FFFFFF;
     width: 100%;
     height: 410px;
-    background-image: url(file:///D:/Front-end/RWD/img/header_desktop_1024.png);
+    background-image: url(../img/header_desktop_1024.png);
     background-repeat: no-repeat;
    
 
@@ -286,7 +286,7 @@ clear: both ;
 .btn{
   width: 100%;
   height: 410px;
-  background: url(file:///D:/Front-end/RWD/img/header_desktop_768.png);
+  background: url(../img/header_desktop_768.png);
   background-repeat: no-repeat;
   margin-top: -80px;
 }
@@ -298,7 +298,7 @@ clear: both ;
 
   width: 100%;
 
-  background: url(file:///D:/Front-end/RWD/img/header_mobile.png);
+  background: url(../img/header_mobile.png);
   background-repeat: no-repeat;
  
 }
