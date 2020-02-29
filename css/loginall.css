@@ -445,7 +445,7 @@ a {
   text-indent: -999999px;
   width: 245px;
   height: 49px;
-  background: url(file:///D:/Front-end/RWD/img/logo_l.png) no-repeat; }
+  background: url(../img/logo_l.png) no-repeat; }
 
 .login h3 {
   text-align: center;
